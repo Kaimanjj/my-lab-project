@@ -1,0 +1,2 @@
+﻿setting=value_modified_by_2
+another=123
