@@ -1,0 +1,2 @@
+setting=value
+another=123
